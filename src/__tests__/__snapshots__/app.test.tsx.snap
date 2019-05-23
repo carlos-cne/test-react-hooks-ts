@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`My first test Component App 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <h1>
+      Teste usando o React Hooks com TypeScript
+    </h1>
+    <h4>
+      Todos
+    </h4>
+    <form>
+      <input
+        name="inputTodo"
+        placeholder="Digite o Todo"
+        type="text"
+        value=""
+      />
+      <button
+        name="buttonSubmitTodo"
+        type="submit"
+      >
+        Adiconar
+      </button>
+    </form>
+    <div>
+      <ul />
+    </div>
+  </div>
+</DocumentFragment>
+`;
